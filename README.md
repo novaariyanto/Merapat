@@ -27,7 +27,7 @@ Aplikasi web ini dirancang untuk memudahkan pengelolaan rapat dan absensi pesert
 
 1.  **Clone Repository**:
     ```bash
-    git clone https://github.com/novaariyanto/Merapat
+    git clone https://github.com/novaariyanto/Merapat.git
     ```
 2.  **Konfigurasi Database**:
     * Buat database MySQL dengan nama yang sesuai.
